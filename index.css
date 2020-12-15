@@ -1,25 +1,51 @@
 body{
-    background-color: rgb(5, 56, 77);
-}
-.btnToggler{
-
+    background-color: rgb(77, 59, 156);
+    font-weight: 700;
 }
 .access-button{
     margin-top : 20px !important;
     margin-bottom:20px !important;
     background-color: rgb(236, 59, 89) !important;
+    font-size: 20px;
+    font-weight: 600;
 }
 .btnToggler{
-    background-color: rgb(87, 241, 67) !important;
+    background-color: rgb(73, 211, 55) !important;
 }
 li{
     font-size: 20px;
     padding:20px;
     margin:5px;
+    margin-top:10px;
+    margin-bottom:7px;
     border:2px solid white;
     border-radius: 10px; 
     list-style-type:none;
 }
 li:hover{
-    background-color: rgba(85, 149, 165, 0.63) !important;
+    background-color: hotpink !important;
+    border:2px solid rgb(128, 247, 128);
+}
+.heading{
+    background-color:honeydew;
+    padding-bottom:10px;
+}
+.petrol{
+    font-size:25px;
+    padding-right:5px;
+    padding-left:5px;
+    border:2px solid white;
+    border-radius: 10px;
+}
+.petrol:hover{
+    background-color: hotpink;
+}
+h1 .fa-car{
+    padding:0px 10px 0px 10px;
+}
+.log{
+    background-color: rgba(145, 245, 78, 0.178);
+    border-radius:20px;
+    border: 2px solid white;;
+    padding:30px;
 }
